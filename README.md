@@ -1,4 +1,4 @@
-# cardiac-segmentation-xai
+# Cardiac-Segmentation-XAI
 
 Multi-class whole heart segmentation on the MM-WHS dataset (CT and MRI), with explainability and interpretability analysis.
 
